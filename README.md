@@ -40,7 +40,7 @@ https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majori
 ### Decred Governance
 ### Politeia
 
-**Politeia: Proposals in a Timestamped Filesystem** — Jake Yocom-Piatt
+**Politeia: Proposals in a Timestamped Filesystem** — by Jake Yocom-Piatt
 https://blog.decred.org/2017/10/25/Politeia/
 
 ### Interesting Politeia Proposals
@@ -71,3 +71,5 @@ https://blog.decred.org/2017/06/14/Dcrtime/
 ### Exchanges
 ### Stakeholders to Follow
 ### Newsletters
+**Proof of Work — projects and progress in crypto, includes weekly updates on Decred from JZ** -- by Eric Meltzer
+https://proofofwork.substack.com/
