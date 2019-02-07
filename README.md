@@ -21,14 +21,19 @@ https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
 https://docs.decred.org/
 
 
-
 ### History of Decred
+
+**Iterating Bitcoin** — Jake Yocom-Piatt
+https://blog.companyzero.com/2015/12/iterating-bitcoin/
+
 ### Hybridized PoW/PoS Consensus
 
 **Upgrading Consensus** — Jake Yocom-Piatt
+https://blog.decred.org/2016/11/16/Upgrading-Consensus/
 
 **A New Ticket Price Algorithm** — Jake Yocom-Piatt
 https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
+
 
 ### Decred Governance
 ### Politeia
