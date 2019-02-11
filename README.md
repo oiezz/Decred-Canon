@@ -64,10 +64,12 @@ https://blog.decred.org/2017/06/14/Dcrtime/
 ## Protocol Funding
 ## Stakepools
 ## Block Explorers
-**dcrdata — Decred Block Explorer, maintained by community:**  https://explorer.dcrdata.org/
+
+**dcrdata**— maintained by community  https://explorer.dcrdata.org/
+
 ## Network Data Sources
 
-**Voting Monitor, maintained by community** https://voting.decred.org/
+**Voting Monitor** — maintained by community https://voting.decred.org/
 
 ## Discussion Forums
 ## Wallets
