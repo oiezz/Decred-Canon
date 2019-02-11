@@ -88,6 +88,16 @@ https://voting.decred.org/
 https://github.com/decred/dcrandroid
 
 ## Exchanges
+## OTC Desks
+
+**Circle** https://www.circletrade.com/
+
+**i2 Trading** https://i2trading.com/
+
+**Cumberland** https://cumberlandmining.com/
+
+**OneChain Capital** https://onechaincapital.com/
+
 ## Known Addresses
 
 **Decred Treasury Wallet**  
