@@ -68,6 +68,9 @@ https://blog.decred.org/2017/06/14/Dcrtime/
 
 ## Protocol Funding
 ## Stakepools
+
+**Voting Services Providers (decred.org)** — https://www.decred.org/vsp/
+
 ## Block Explorers
 
 **dcrdata**— maintained by community  
@@ -92,5 +95,7 @@ https://explorer.dcrdata.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx
 
 ## Stakeholders to Follow
 ## Newsletters
+**Decred Journal, monthly updates from the Decred ecosystem** — https://github.com/xaur/decred-news/tree/draft01/journal
+
 **Proof of Work — projects and progress in crypto, includes weekly updates on Decred from JZ** -- by Eric Meltzer
 https://proofofwork.substack.com/
