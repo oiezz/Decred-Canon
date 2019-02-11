@@ -43,6 +43,11 @@ https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majori
 **Politeia: Proposals in a Timestamped Filesystem** — by Jake Yocom-Piatt
 https://blog.decred.org/2017/10/25/Politeia/
 
+## Roadmap
+
+**A New Kind of DEX** — Jake Yocom-Piatt
+https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
+
 ## Interesting Politeia Proposals
 
 ## Interesting reddit discussions
@@ -65,15 +70,26 @@ https://blog.decred.org/2017/06/14/Dcrtime/
 ## Stakepools
 ## Block Explorers
 
-**dcrdata**— maintained by community  https://explorer.dcrdata.org/
+**dcrdata**— maintained by community  
+https://explorer.dcrdata.org/
 
 ## Network Data Sources
 
-**Voting Monitor** — maintained by community https://voting.decred.org/
+**Voting Monitor** — maintained by community 
+https://voting.decred.org/
 
 ## Discussion Forums
 ## Wallets
+
+**dcrandroid — Decred Mobile Wallet** — maintained by community 
+https://github.com/decred/dcrandroid
+
 ## Exchanges
+## Known Addresses
+
+**Decred Treasury Wallet**  
+https://explorer.dcrdata.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx
+
 ## Stakeholders to Follow
 ## Newsletters
 **Proof of Work — projects and progress in crypto, includes weekly updates on Decred from JZ** -- by Eric Meltzer
