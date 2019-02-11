@@ -21,12 +21,12 @@ https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
 https://docs.decred.org/
 
 
-### History of Decred
+## History of Decred
 
 **Iterating Bitcoin** — by Jake Yocom-Piatt
 https://blog.companyzero.com/2015/12/iterating-bitcoin/
 
-### Hybridized PoW/PoS Consensus
+## Hybridized PoW/PoS Consensus
 
 **Upgrading Consensus** — by Jake Yocom-Piatt
 https://blog.decred.org/2016/11/16/Upgrading-Consensus/
@@ -37,15 +37,15 @@ https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
 **Decred’s hybrid protocol, a superior deterrent to majority attacks** -- by Zubair Zia
 https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
 
-### Decred Governance
-### Politeia
+## Decred Governance
+## Politeia
 
 **Politeia: Proposals in a Timestamped Filesystem** — by Jake Yocom-Piatt
 https://blog.decred.org/2017/10/25/Politeia/
 
-### Interesting Politeia Proposals
+## Interesting Politeia Proposals
 
-### Interesting reddit discussions
+## Interesting reddit discussions
 
 **Tagline to capture the Decred Project** — u/lehaon
 https://www.reddit.com/r/decred/comments/afctai/tagline_to_capture_the_decred_project/
@@ -56,20 +56,20 @@ https://www.reddit.com/r/decred/comments/ans7lg/what_do_we_think_of_converting_d
 **Your Best Pitch for Decred** -- 
 https://www.reddit.com/r/decred/comments/6wxueo/your_best_pitch_for_decred/dmcer4d/
 
-### dcrtime
+## dcrtime
 
 **dcrtimne: Blockchain-based Timestamps** — by Marco Peereboom
 https://blog.decred.org/2017/06/14/Dcrtime/
 
-### Protocol Funding
-### Stakepools
-### Block Explorers
+## Protocol Funding
+## Stakepools
+## Block Explorers
 **dcrdata -- Decred Block Explorer, maintained by community:**  https://explorer.dcrdata.org/
-### Network Data Sources
-### Discussion Forums
-### Wallets
-### Exchanges
-### Stakeholders to Follow
-### Newsletters
+## Network Data Sources
+## Discussion Forums
+## Wallets
+## Exchanges
+## Stakeholders to Follow
+## Newsletters
 **Proof of Work — projects and progress in crypto, includes weekly updates on Decred from JZ** -- by Eric Meltzer
 https://proofofwork.substack.com/
