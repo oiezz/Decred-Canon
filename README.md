@@ -40,6 +40,9 @@ https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majori
 **Apples to Apples, Decred is 20x more expensive to attack than Bitcoin** — Zubar Zia 
 https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
 
+**Detailed analysis of Decred fork resistance** — Haon 
+https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
+
 ## Decred Governance
 
 ## Politeia
@@ -49,6 +52,9 @@ https://blog.decred.org/2017/10/25/Politeia/
 
 **Governance of the Decred project subsidy through Politeia** — Richard Red
 https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f
+
+**An Overview of the Politeia system architecture** — Fernando Abolafio
+https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-8741c13b35d8
 
 ## Roadmap
 
