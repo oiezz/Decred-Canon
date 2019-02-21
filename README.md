@@ -20,6 +20,8 @@ https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
 **Overview, Decred Documentation**
 https://docs.decred.org/
 
+**Decred Foundational Messaging** — Dustin LeFebvre
+https://pastebin.com/E5L6u2RV
 
 ## History of Decred
 
@@ -43,7 +45,16 @@ https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-att
 **Detailed analysis of Decred fork resistance** — Haon 
 https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
 
+**The role of Decred voters in defending against majority attacks** — Richard Red
+https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
+
 ## Decred Governance
+
+**Introduction to Decred Governance** — Decred Documentation
+https://docs.decred.org/governance/introduction-to-decred-governance/
+
+**Decentralized off-chain governance in the context of digital currencies** — Haon
+https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412
 
 ## Politeia
 
@@ -55,6 +66,9 @@ https://medium.com/decred/governance-of-the-decred-project-subsidy-through-polit
 
 **An Overview of the Politeia system architecture** — Fernando Abolafio
 https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-8741c13b35d8
+
+**Decred is Turning Its Entire $21 Million Crypto Treasury Over to Investors** — Brady Dale, CoinDesk
+https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
 
 ## Roadmap
 
@@ -94,8 +108,24 @@ https://explorer.dcrdata.org/
 **Voting Monitor** — maintained by community 
 https://voting.decred.org/
 
+**Inflation Information** — Decred Documentation
+https://docs.decred.org/advanced/inflation/
+
+
 ## Discussion Forums
 ## Wallets
+
+**Decrediton** — Recommended*
+https://github.com/decred/decred-binaries/releases/download/v1.4.0/decrediton-v1.4.0.dmg
+
+**Command-line app suite**
+https://github.com/decred/decred-release/releases/tag/v1.4.0
+
+**Exodus**
+https://www.exodus.io/releases/
+
+**Ledge Live**
+https://www.ledger.com/pages/ledger-live
 
 **dcrandroid — Decred Mobile Wallet** — maintained by community 
 https://github.com/decred/dcrandroid
