@@ -110,6 +110,9 @@ https://blog.decred.org/2017/06/14/Dcrtime/
 
 **Voting Services Providers (decred.org)** — https://www.decred.org/vsp/
 
+**Grassfed Network** — CoinFund & Placeholder Ventures
+https://grassfed.network/
+
 ## Mining Pools
 
 **BeePool**
