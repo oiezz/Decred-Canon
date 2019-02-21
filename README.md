@@ -23,6 +23,9 @@ https://docs.decred.org/
 **Decred Foundational Messaging** — Dustin LeFebvre
 https://pastebin.com/E5L6u2RV
 
+**DTB001: Decred Technical Brief** — Christina Jepson
+https://decred.org/dtb001.pdf
+
 ## History of Decred
 
 **Iterating Bitcoin** — by Jake Yocom-Piatt
@@ -77,6 +80,15 @@ https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
 
 ## Interesting Politeia Proposals
 
+**RFP: Decred Decentralized Exchange Infrastructure** — Jacob Yocom-Piatt
+https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a
+
+**Decred Bug Bounty Proposal** — degeri
+https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1
+
+**Ditto Communications Proposal for Decred** — Ditto PR
+https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50
+
 ## Interesting reddit discussions
 
 **Tagline to capture the Decred Project** — u/lehaon
@@ -98,12 +110,42 @@ https://blog.decred.org/2017/06/14/Dcrtime/
 
 **Voting Services Providers (decred.org)** — https://www.decred.org/vsp/
 
+## Mining Pools
+
+**BeePool**
+https://beepool.org/
+
+**F2Pool**
+https://www.f2pool.com/
+
+**Poolin**
+https://www.poolin.com/
+
+**UUpool**
+https://uupool.cn/dcr
+
+**Luxor**
+https://mining.luxor.tech/decred
+
+**Coinmine**
+https://www2.coinmine.pl/dcr/
+
+**Supernova**
+https://dcr.suprnova.cc/
+
 ## Block Explorers
 
 **dcrdata**— maintained by community  
 https://explorer.dcrdata.org/
 
+**Insight Block Explorer** — mainted by community
+https://mainnet.decred.org/
+
+
 ## Network Data Sources
+
+**dcrstats** — maintained by community
+https://dcrstats.com/
 
 **Voting Monitor** — maintained by community 
 https://voting.decred.org/
