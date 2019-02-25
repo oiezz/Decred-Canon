@@ -40,6 +40,9 @@ https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
 **Decred: Rethink Digital Currency** — by Jake Yocom-Piatt
 https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
 
+**Memcoin2: A Hybrid Proof-of-Work, Proof-of-Stake Crypto-Currency** — by Adam Mackenzie
+https://decred.org/research/mackenzie2013.pdf
+
 **Bitcointalk Announcement Thread** — by Decred Community
 https://bitcointalk.org/index.php?topic=1290358.0
 
@@ -114,7 +117,7 @@ https://www.reddit.com/r/decred/comments/6wxueo/your_best_pitch_for_decred/dmcer
 
 ## dcrtime
 
-**dcrtimne: Blockchain-based Timestamps** — by Marco Peereboom
+**dcrtime: Blockchain-based Timestamps** — by Marco Peereboom
 https://blog.decred.org/2017/06/14/Dcrtime/
 
 ## Protocol Funding
