@@ -20,6 +20,9 @@ https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
 **Overview, Decred Documentation**
 https://docs.decred.org/
 
+**Decred Business Brief**
+https://decred.org/brief/
+
 **Decred Foundational Messaging** — Dustin LeFebvre
 https://pastebin.com/E5L6u2RV
 
@@ -30,6 +33,15 @@ https://decred.org/dtb001.pdf
 
 **Iterating Bitcoin** — by Jake Yocom-Piatt
 https://blog.companyzero.com/2015/12/iterating-bitcoin/
+
+**Bitcoin's biggest challenges** — by Jake Yocom-Piatt
+https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
+
+**Decred: Rethink Digital Currency** — by Jake Yocom-Piatt
+https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
+
+**Bitcointalk Announcement Thread** — by Decred Community
+https://bitcointalk.org/index.php?topic=1290358.0
 
 ## Hybridized PoW/PoS Consensus
 
@@ -42,13 +54,13 @@ https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
 **Decred’s hybrid protocol, a superior deterrent to majority attacks** -- by Zubair Zia
 https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
 
-**Apples to Apples, Decred is 20x more expensive to attack than Bitcoin** — Zubar Zia 
+**Apples to Apples, Decred is 20x more expensive to attack than Bitcoin** — by Zubar Zia 
 https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
 
-**Detailed analysis of Decred fork resistance** — Haon 
+**Detailed analysis of Decred fork resistance** — by Haon 
 https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
 
-**The role of Decred voters in defending against majority attacks** — Richard Red
+**The role of Decred voters in defending against majority attacks** — by Richard Red
 https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-majority-attacks-ec658af0a8fd
 
 ## Decred Governance
@@ -56,7 +68,7 @@ https://medium.com/@richardred/the-role-of-decred-voters-in-defending-against-ma
 **Introduction to Decred Governance** — Decred Documentation
 https://docs.decred.org/governance/introduction-to-decred-governance/
 
-**Decentralized off-chain governance in the context of digital currencies** — Haon
+**Decentralized off-chain governance in the context of digital currencies** — by Haon
 https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412
 
 ## Politeia
@@ -64,34 +76,34 @@ https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-
 **Politeia: Proposals in a Timestamped Filesystem** — by Jake Yocom-Piatt
 https://blog.decred.org/2017/10/25/Politeia/
 
-**Governance of the Decred project subsidy through Politeia** — Richard Red
+**Governance of the Decred project subsidy through Politeia** — by Richard Red
 https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f
 
-**An Overview of the Politeia system architecture** — Fernando Abolafio
+**An Overview of the Politeia system architecture** — by Fernando Abolafio
 https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-8741c13b35d8
 
-**Decred is Turning Its Entire $21 Million Crypto Treasury Over to Investors** — Brady Dale, CoinDesk
+**Decred is Turning Its Entire $21 Million Crypto Treasury Over to Investors** — by Brady Dale, CoinDesk
 https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
 
 ## Roadmap
 
-**A New Kind of DEX** — Jake Yocom-Piatt
+**A New Kind of DEX** — by Jake Yocom-Piatt
 https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
 
 ## Interesting Politeia Proposals
 
-**RFP: Decred Decentralized Exchange Infrastructure** — Jacob Yocom-Piatt
+**RFP: Decred Decentralized Exchange Infrastructure** — by Jacob Yocom-Piatt
 https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a
 
-**Decred Bug Bounty Proposal** — degeri
+**Decred Bug Bounty Proposal** — by degeri
 https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251e4cf791e806939ea9efc9e1
 
-**Ditto Communications Proposal for Decred** — Ditto PR
+**Ditto Communications Proposal for Decred** — by Ditto PR
 https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50
 
 ## Interesting reddit discussions
 
-**Tagline to capture the Decred Project** — u/lehaon
+**Tagline to capture the Decred Project** — by u/lehaon
 https://www.reddit.com/r/decred/comments/afctai/tagline_to_capture_the_decred_project/
 
 **What do we think of converting Decred's ticket from $DCR to $CRED?** — by u/cburniske
@@ -110,7 +122,7 @@ https://blog.decred.org/2017/06/14/Dcrtime/
 
 **Voting Services Providers (decred.org)** — https://www.decred.org/vsp/
 
-**Grassfed Network** — CoinFund & Placeholder Ventures
+**Grassfed Network** — by CoinFund & Placeholder Ventures
 https://grassfed.network/
 
 ## Mining Pools
@@ -158,6 +170,13 @@ https://docs.decred.org/advanced/inflation/
 
 
 ## Discussion Forums
+
+**Decred Subreddit**
+https://www.reddit.com/r/decred/
+
+**Decred Forum**
+https://forum.decred.org/
+
 ## Wallets
 
 **Decrediton** — Recommended*
@@ -191,7 +210,12 @@ https://github.com/decred/dcrandroid
 **Decred Treasury Wallet**  
 https://explorer.dcrdata.org/address/Dcur2mcGjmENx4DhNqDctW5wJCVyT3Qeqkx
 
+**Premine Transaction**
+https://explorer.dcrdata.org/tx/5e29cdb355b3fc7e76c98a9983cd44324b3efdd7815c866e33f6c72292cb8be6
+
 ## Stakeholders to Follow
+
+
 ## Newsletters
 **Decred Journal, monthly updates from the Decred ecosystem** — https://github.com/xaur/decred-news/tree/draft01/journal
 
