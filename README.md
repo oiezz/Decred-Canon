@@ -27,10 +27,10 @@ https://docs.decred.org/
 **Decred Business Brief**
 https://decred.org/brief/
 
-**Decred Foundational Messaging** — Dustin LeFebvre, Decred
+**Decred Foundational Messaging** — by Dustin LeFebvre, Decred
 https://pastebin.com/E5L6u2RV
 
-**DTB001: Decred Technical Brief** — Christina Jepson, Decred
+**DTB001: Decred Technical Brief** — by Christina Jepson, Decred
 https://decred.org/dtb001.pdf
 
 ## History of Decred
