@@ -5,13 +5,13 @@ Sections are as follows: Getting Started, History, Hybridized PoW/PoS Consensus,
 
 ## Introduction
 
-Decred is a 1) hypersecure, 2) adaptable, and 3) self-sustaining cryptocurrency. 
+Decred is a 1) hypersecure 2) adaptable and 3) self-sustaining cryptocurrency. 
 
 1) Hypersecure: Decred's hybrid Proof-of-Work/Proof-of-Stake consensus model is costlier to attack than Proof-of-Work alone.
-2) Adaptable: Decred's formalized governance process encourages and streamlines permissionless, bottom-up innovation
+2) Adaptable: Decred's formalized governance process encourages and streamlines permissionless, bottom-up innovation.
 3) Self-sustaining: Decred's continually-minted treasury is managed by holders of its native asset (DCR) and is already in excess of 500,000 DCR. 
 
-Decred is iterating on technological, social, and political fronts. 
+Decred is iterating on technological, social, and political fronts, attracting outstanding talent in the process. 
 
 
 ## Getting Started
