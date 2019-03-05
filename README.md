@@ -1,20 +1,20 @@
 # decred-canon
-A collection of readings and resources to help people familiarize themselves with the Decred Project. To start, we will segment the list into Getting Started, History, Hybridized PoW/PoS Consensus, Decred Governance, Politeia, Protocol Funding, Stakepools, Block Explorers, Network Data Sources, Discussion Forums, Wallets, Exchanges, Stakeholders to Follow, Newsletters. We plan to add more sections and content as they become necessary. Community members are welcome to submit pull requests for new additions. 
+A collection of readings and resources to help people understand and build upon Decred. Sections are as follows: Getting Started, History, Hybridized PoW/PoS Consensus, Decred Governance, Politeia, Protocol Funding, Stakepools, Block Explorers, Network Data Sources, Discussion Forums, Wallets, Exchanges, Stakeholders to Follow, and Newsletters. We plan to add sections and content as they become necessary. Community members are welcome to submit pull requests for new additions. 
+
 ## Introduction
 
-Decred is a cryptocurrency that uses hybrid Proof of Work/Proof of Stake to enable decentralization and stakeholder governance. In Decred, both the work of miners and stakeholders is required to apend blocks to its ledger, creating a more fair checks and balances system between users, miners, and developers. Stakeholders are also able to vote on consensus rule changes and off-chain governance initiatives created as proposals on Politeia. 
+Decred is a hypersecure, adaptable, and self-sustaining cryptocurrency. Its hybrid Proof-of-Work/Proof-of-Stake consensus model is costlier to attack than Proof-of-Work alone; its open governance process encourages and streamlines permissionless, bottom-up innovation; its continually-minted treasury is managed by holders of its native asset (DCR) and already in excess of 500,000 DCR. Decred is iterating on technological, social, and political fronts. 
 
-Decred is positioning itself to be a hypersecure, adaptable, and self-sustaining store of value. Its hybrid consensus model requires far more work to rewrite the chain, its open governance process consistently produces innovation, and its treasury will be managed entirely by its stakeholders. Decred is iterating on how to both program digital value and how to coordinate open source systems. 
 
 ## Getting Started
 
-**Decred Investment Thesis** — by Placeholder Ventures
+**Decred Investment Thesis** — by Chris Burniske & Joel Monegro, Placeholder 
 https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
 
-**Decred Network Analysis** — by Alex Evans, Placeholder Ventures
+**Decred Network Analysis** — by Alex Evans, Placeholder 
 https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
 
-**A beginner's guide to Decred** — by Linda Xie
+**A beginner's guide to Decred** — by Linda Xie, Scalar Capital
 https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
 
 **Overview, Decred Documentation**
@@ -23,21 +23,21 @@ https://docs.decred.org/
 **Decred Business Brief**
 https://decred.org/brief/
 
-**Decred Foundational Messaging** — Dustin LeFebvre
+**Decred Foundational Messaging** — Dustin LeFebvre, Decred
 https://pastebin.com/E5L6u2RV
 
-**DTB001: Decred Technical Brief** — Christina Jepson
+**DTB001: Decred Technical Brief** — Christina Jepson, Decred
 https://decred.org/dtb001.pdf
 
 ## History of Decred
 
-**Iterating Bitcoin** — by Jake Yocom-Piatt
+**Iterating Bitcoin** — by Jake Yocom-Piatt, Decred
 https://blog.companyzero.com/2015/12/iterating-bitcoin/
 
-**Bitcoin's biggest challenges** — by Jake Yocom-Piatt
+**Bitcoin's biggest challenges** — by Jake Yocom-Piatt, Decred
 https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges/
 
-**Decred: Rethink Digital Currency** — by Jake Yocom-Piatt
+**Decred: Rethink Digital Currency** — by Jake Yocom-Piatt, Decred
 https://blog.companyzero.com/2015/12/decred-rethink-digital-currency/
 
 **Memcoin2: A Hybrid Proof-of-Work, Proof-of-Stake Crypto-Currency** — by Adam Mackenzie
@@ -48,16 +48,16 @@ https://bitcointalk.org/index.php?topic=1290358.0
 
 ## Hybridized PoW/PoS Consensus
 
-**Upgrading Consensus** — by Jake Yocom-Piatt
+**Upgrading Consensus** — by Jake Yocom-Piatt, Decred
 https://blog.decred.org/2016/11/16/Upgrading-Consensus/
 
-**A New Ticket Price Algorithm** — by Jake Yocom-Piatt
+**A New Ticket Price Algorithm** — by Jake Yocom-Piatt, Decred
 https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
 
-**Decred’s hybrid protocol, a superior deterrent to majority attacks** -- by Zubair Zia
+**Decred’s hybrid protocol, a superior deterrent to majority attacks** -- by Zubair Zia, Independent
 https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
 
-**Apples to Apples, Decred is 20x more expensive to attack than Bitcoin** — by Zubar Zia 
+**Apples to Apples, Decred is 20x more expensive to attack than Bitcoin** — by Zubar Zia, Independent 
 https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
 
 **Detailed analysis of Decred fork resistance** — by Haon 
@@ -76,7 +76,7 @@ https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-
 
 ## Politeia
 
-**Politeia: Proposals in a Timestamped Filesystem** — by Jake Yocom-Piatt
+**Politeia: Proposals in a Timestamped Filesystem** — by Jake Yocom-Piatt, Decred
 https://blog.decred.org/2017/10/25/Politeia/
 
 **Governance of the Decred project subsidy through Politeia** — by Richard Red
@@ -95,7 +95,7 @@ https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
 
 ## Interesting Politeia Proposals
 
-**RFP: Decred Decentralized Exchange Infrastructure** — by Jacob Yocom-Piatt
+**RFP: Decred Decentralized Exchange Infrastructure** — by Jacob Yocom-Piatt, Decred
 https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a
 
 **Decred Bug Bounty Proposal** — by degeri
