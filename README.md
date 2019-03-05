@@ -100,6 +100,14 @@ https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-87
 **Decred is Turning Its Entire $21 Million Crypto Treasury Over to Investors** — by Brady Dale, CoinDesk
 https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
 
+## The Contractor Model
+
+**Decred Recruiting** - by Jake Yocom-Piatt, Decred
+https://blog.decred.org/blog/page2/
+
+**How to Get Hired as a Decred Contractor** - by Haon
+https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10
+
 ## Roadmap
 
 **A New Kind of DEX** — by Jake Yocom-Piatt
