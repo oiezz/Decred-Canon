@@ -7,7 +7,7 @@ Sections are as follows: Getting Started, History, Hybridized PoW/PoS Consensus,
 
 Decred is a hypersecure, adaptable, and self-sustaining cryptocurrency. 
 
-Its hybrid Proof-of-Work/Proof-of-Stake consensus model is costlier to attack than Proof-of-Work alone; its open governance process encourages and streamlines permissionless, bottom-up innovation; its continually-minted treasury is managed by holders of its native asset (DCR) and already in excess of 500,000 DCR. Decred is iterating on technological, social, and political fronts. 
+Decred's hybrid Proof-of-Work/Proof-of-Stake consensus model is costlier to attack than Proof-of-Work alone; its open governance process encourages and streamlines permissionless, bottom-up innovation; its continually-minted treasury is managed by holders of its native asset (DCR) and is already in excess of 500,000 DCR. Decred is iterating on technological, social, and political fronts. 
 
 
 ## Getting Started
