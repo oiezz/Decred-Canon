@@ -1,9 +1,13 @@
 # decred-canon
-A collection of readings and resources to help people understand and build upon Decred. Sections are as follows: Getting Started, History, Hybridized PoW/PoS Consensus, Decred Governance, Politeia, Protocol Funding, Stakepools, Block Explorers, Network Data Sources, Discussion Forums, Wallets, Exchanges, Stakeholders to Follow, and Newsletters. We plan to add sections and content as they become necessary. Community members are welcome to submit pull requests for new additions. 
+A collection of readings and resources to help people understand and build upon Decred. 
+
+Sections are as follows: Getting Started, History, Hybridized PoW/PoS Consensus, Decred Governance, Politeia, Protocol Funding, Stakepools, Block Explorers, Network Data Sources, Discussion Forums, Wallets, Exchanges, Stakeholders to Follow, and Newsletters. We plan to add sections and content as they become necessary. Community members are welcome to submit pull requests for new additions. 
 
 ## Introduction
 
-Decred is a hypersecure, adaptable, and self-sustaining cryptocurrency. Its hybrid Proof-of-Work/Proof-of-Stake consensus model is costlier to attack than Proof-of-Work alone; its open governance process encourages and streamlines permissionless, bottom-up innovation; its continually-minted treasury is managed by holders of its native asset (DCR) and already in excess of 500,000 DCR. Decred is iterating on technological, social, and political fronts. 
+Decred is a hypersecure, adaptable, and self-sustaining cryptocurrency. 
+
+Its hybrid Proof-of-Work/Proof-of-Stake consensus model is costlier to attack than Proof-of-Work alone; its open governance process encourages and streamlines permissionless, bottom-up innovation; its continually-minted treasury is managed by holders of its native asset (DCR) and already in excess of 500,000 DCR. Decred is iterating on technological, social, and political fronts. 
 
 
 ## Getting Started
