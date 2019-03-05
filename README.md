@@ -1,3 +1,5 @@
+![Decred Logo](https://en.wikipedia.org/wiki/File:Decred_logo_full_color.png)
+
 # decred-canon
 A collection of readings and resources to help people understand and build upon Decred. 
 
