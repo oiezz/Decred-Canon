@@ -19,15 +19,6 @@ Decred is iterating on technological, social, and political fronts, attracting o
 
 ## Getting Started
 
-**Decred Investment Thesis** — by Chris Burniske & Joel Monegro, Placeholder 
-https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-
-**Decred Network Analysis** — by Alex Evans, Placeholder 
-https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
-
-**A beginner's guide to Decred** — by Linda Xie, Scalar Capital
-https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
-
 **Overview, Decred Documentation**
 https://docs.decred.org/
 
@@ -39,6 +30,15 @@ https://pastebin.com/E5L6u2RV
 
 **DTB001: Decred Technical Brief** — by Christina Jepson, Decred
 https://decred.org/dtb001.pdf
+
+**A beginner's guide to Decred** — by Linda Xie, Scalar Capital
+https://medium.com/@linda.xie/a-beginners-guide-to-decred-2fc61670d67c
+
+**Decred Investment Thesis** — by Chris Burniske & Joel Monegro, Placeholder 
+https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
+
+**Decred Network Analysis** — by Alex Evans, Placeholder 
+https://static1.squarespace.com/static/5a479ee3b7411c6102f75729/t/5beb31eb6d2a73d37e82093b/1542140423818/Decred+Analysis+-+Alex+Evans.pdf
 
 ## History of Decred
 
