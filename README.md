@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/15176937/53788418-9d084880-3ed6-11e9-905d-815d074f60f9.png)
+
+
 # decred-canon
 A collection of readings and resources to help people understand and build upon Decred. 
 
