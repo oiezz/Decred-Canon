@@ -58,6 +58,9 @@ https://decred.org/research/mackenzie2013.pdf
 **Bitcointalk Announcement Thread** — by Decred Community
 https://bitcointalk.org/index.php?topic=1290358.0
 
+**Decred Timeline** - by Decred Community
+https://github.com/artikozel/decred-timeline
+
 ## Hybridized PoW/PoS Consensus
 
 **Upgrading Consensus** — by Jake Yocom-Piatt, Decred
