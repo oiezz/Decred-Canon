@@ -100,7 +100,16 @@ https://medium.com/decred/an-overview-of-decreds-politeia-system-architecture-87
 **Decred is Turning Its Entire $21 Million Crypto Treasury Over to Investors** — by Brady Dale, CoinDesk
 https://www.coindesk.com/decred-is-turning-its-entire-21-million-crypto-treasury-over-to-investors
 
+**Politeia in Production** - by Jake Yocom-Piatt, Decred
+https://blog.decred.org/2018/10/15/Politeia-in-Production/ 
+
+**On the launch of Decred's Politeia** - by Richard Red
+https://medium.com/decred/on-the-launch-of-decreds-politeia-b305d06d8bda
+
 ## The Contractor Model
+
+**Docs - Contributing to Decred**
+https://docs.decred.org/contributing/contributing-to-decred/
 
 **Decred Recruiting** - by Jake Yocom-Piatt, Decred
 https://blog.decred.org/blog/page2/
@@ -113,9 +122,20 @@ https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10
 **A New Kind of DEX** — by Jake Yocom-Piatt
 https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
 
+**2018 Decred Roadmap** — by Jake Yocom-Piatt
+https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/
+
+## Newsletters
+**Decred Journal, monthly updates from the Decred ecosystem** — https://github.com/xaur/decred-news/
+
+**Politeia Digest, regular updates on Politeia proposals and discussions** - https://richardred0x.github.io/politeia-digest/ and https://medium.com/politeia-digest
+
+**Proof of Work — projects and progress in crypto, includes weekly updates on Decred from JZ** -- by Eric Meltzer
+https://proofofwork.substack.com/
+
 ## Interesting Politeia Proposals
 
-**RFP: Decred Decentralized Exchange Infrastructure** — by Jacob Yocom-Piatt, Decred
+**RFP: Decred Decentralized Exchange Infrastructure** — by Jake Yocom-Piatt, Decred
 https://proposals.decred.org/proposals/5431da8ff4eda8cdbf8f4f2e08566ffa573464b97ef6d6bae78e749f27800d3a
 
 **Decred Bug Bounty Proposal** — by degeri
@@ -123,6 +143,12 @@ https://proposals.decred.org/proposals/d33a2667469b56942adf42453def6cc2292325251
 
 **Ditto Communications Proposal for Decred** — by Ditto PR
 https://proposals.decred.org/proposals/27f87171d98b7923a1bd2bee6affed929fa2d2a6e178b5c80a9971a92a5c7f50
+
+**Decred Contractor Clearance Process** by by Jake Yocom-Piatt, Decred
+https://proposals.decred.org/proposals/fa38a3593d9a3f6cb2478a24c25114f5097c572f6dadf24c78bb521ed10992a4
+
+**Decred Open Source Research proposal 2 - research projects** - by Richard Red
+https://proposals.decred.org/proposals/5d9cfb07aefb338ba1b74f97de16ee651beabc851c7f2b5f790bd88aea23b3cb
 
 ## Interesting reddit discussions
 
@@ -176,7 +202,7 @@ https://dcr.suprnova.cc/
 **dcrdata**— maintained by community  
 https://explorer.dcrdata.org/
 
-**Insight Block Explorer** — mainted by community
+**Insight Block Explorer** — maintained by community
 https://mainnet.decred.org/
 
 
@@ -239,8 +265,4 @@ https://explorer.dcrdata.org/tx/5e29cdb355b3fc7e76c98a9983cd44324b3efdd7815c866e
 ## Stakeholders to Follow
 
 
-## Newsletters
-**Decred Journal, monthly updates from the Decred ecosystem** — https://github.com/xaur/decred-news/tree/draft01/journal
 
-**Proof of Work — projects and progress in crypto, includes weekly updates on Decred from JZ** -- by Eric Meltzer
-https://proofofwork.substack.com/
