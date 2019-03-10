@@ -72,7 +72,7 @@ https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
 **Decred’s hybrid protocol, a superior deterrent to majority attacks** -- by Zubair Zia, Independent
 https://medium.com/decred/decreds-hybrid-protocol-a-superior-deterrent-to-majority-attacks-9421bf486292
 
-**Apples to Apples, Decred is 20x more expensive to attack than Bitcoin** — by Zubar Zia, Independent 
+**Apples to Apples, Decred is 20x more expensive to attack than Bitcoin** — by Zubair Zia, Independent 
 https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
 
 **Detailed analysis of Decred fork resistance** — by Haon 
@@ -88,6 +88,9 @@ https://docs.decred.org/governance/introduction-to-decred-governance/
 
 **Decentralized off-chain governance in the context of digital currencies** — by Haon
 https://blog.goodaudience.com/decentralized-off-chain-governance-in-the-context-of-digital-currencies-ef6db7d97412
+
+**Blockchain governance: how Decred iterates upon Bitcoin** - By Zubair Zia and Haon 
+https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e
 
 ## Politeia
 
