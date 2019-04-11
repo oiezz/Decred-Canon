@@ -66,6 +66,9 @@ https://github.com/artikozel/decred-timeline
 **Upgrading Consensus** — by Jake Yocom-Piatt, Decred
 https://blog.decred.org/2016/11/16/Upgrading-Consensus/
 
+**Hybrid PoW/PoS Consensus Explained** -- by Richard Red
+https://www.binance.vision/blockchain/hybrid-pow-pos-consensus-explained
+
 **A New Ticket Price Algorithm** — by Jake Yocom-Piatt, Decred
 https://blog.decred.org/2017/04/03/A-New-Ticket-Price-Algorithm/
 
