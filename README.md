@@ -173,6 +173,16 @@ https://www.reddit.com/r/decred/comments/6wxueo/your_best_pitch_for_decred/dmcer
 https://blog.decred.org/2017/06/14/Dcrtime/
 
 ## Protocol Funding
+
+**Decentralize Treasury Spending** — Marco Peereboom 
+https://proposals.decred.org/proposals/c96290a2478d0a1916284438ea2c59a1215fe768a87648d04d45f6b7ecb82c3f
+
+**Decentralized autonomous funding of blockchain projects** — Richard Red
+https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad
+
+**Working for the Decred DAE** — Richard Red
+https://medium.com/@richardred/working-for-the-decred-dae-a9cfb17686fa
+
 ## Stakepools
 
 **Voting Services Providers (decred.org)** — https://www.decred.org/vsp/
